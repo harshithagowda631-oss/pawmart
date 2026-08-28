@@ -1,50 +1,82 @@
-# Welcome to your Expo app 👋
+# 🐾 PawMart
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A mobile e-commerce application for browsing and purchasing pet products, built with **React Native** and **Expo**.
 
-## Get started
+## 📱 About the Project
 
-1. Install dependencies
+PawMart is a React Native mobile application designed to make shopping for pet products simple and convenient.
 
-   ```bash
-   npm install
-   ```
+Users can browse different pet-product categories, view products, add items to their cart, and manage their shopping experience through a mobile-friendly interface.
 
-2. Start the app
+## ✨ Features
 
-   ```bash
-   npx expo start
-   ```
+* 🐶 Browse pet products
+* 🛍️ Product categories
+* 🛒 Add products to cart
+* 📦 View cart items
+* 📱 Mobile-friendly interface
+* ⚡ Built with React Native and Expo
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+* **React Native**
+* **Expo**
+* **TypeScript**
+* **JavaScript**
+* **Node.js**
+* **Git & GitHub**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🚀 Getting Started
 
-## Get a fresh project
-
-When you're ready, run:
+### 1. Clone the repository
 
 ```bash
-npm run reset-project
+git clone https://github.com/harshithagowda631-oss/pawmart.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2. Navigate to the project
 
-## Learn more
+```bash
+cd pawmart
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### 3. Install dependencies
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npm install
+```
 
-## Join the community
+### 4. Start the application
 
-Join our community of developers creating universal apps.
+```bash
+npx expo start
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+You can then open the application using **Expo Go**, an Android emulator, or an iOS simulator.
+
+## 📂 Project Structure
+
+```text
+pawmart/
+├── app/
+├── assets/
+├── components/
+├── context/
+├── package.json
+└── README.md
+```
+
+## 🎯 Future Improvements
+
+* User authentication
+* Product search and filtering
+* Online payment integration
+* Order tracking
+* Backend API integration
+* Database integration
+
+## 👩‍💻 Author
+
+**Harshitha**
+
+GitHub: [@harshithagowda631-oss](https://github.com/harshithagowda631-oss)
